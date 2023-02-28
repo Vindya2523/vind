@@ -9,9 +9,9 @@ st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?l
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
 
-st.header('G.VINDYA')
+st.header('Hello guys!')
 
-st.info('Data science intern, Content Creator')
+st.info('add me on linkedin by clicking the button below')
 
 icon_size = 20
 
