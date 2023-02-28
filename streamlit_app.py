@@ -16,4 +16,4 @@ st.info('Add  me  on  linkedin  by  clicking  the  button  below')
 icon_size = 20
 
 st_button('linkedin', 'https://www.linkedin.com/in/g-vindya-82481a1b0', 'G.Vindya', icon_size)
-
+st_snow()
