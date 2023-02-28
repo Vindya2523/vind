@@ -7,7 +7,7 @@ load_css()
 st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?logo=github&style=social)](https://gitHub.com/dataprofessor/links)")
 
 col1, col2, col3 = st.columns(3)
-col2.image(Image.open('dp.png'))
+col2.image(Image.open('penguins.jpg'))
 
 st.header('G.VINDYA')
 
@@ -15,5 +15,5 @@ st.info('Data science intern, Content Creator')
 
 icon_size = 20
 
-st_button('youtube', 'https://youtube.com/dataprofessor', 'Data Professor YouTube channel', icon_size)
-st_button('youtube', 'https://youtube.com/codingprofessor', 'Coding Professor YouTube channel', icon_size)
+st_button('linkedin', 'https://www.linkedin.com/in/g-vindya-82481a1b0', 'G.Vindya', icon_size)
+st_button('instagram', 'https://instagram.com/_vindyaa__?igshid=ZDdkNTZiNTM=', '__vindyaa_', icon_size)
