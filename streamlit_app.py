@@ -16,4 +16,4 @@ st.info('Data science intern, Content Creator')
 icon_size = 20
 
 st_button('linkedin', 'https://www.linkedin.com/in/g-vindya-82481a1b0', 'G.Vindya', icon_size)
-st_button('instagram', 'https://instagram.com/_vindyaa__?igshid=ZDdkNTZiNTM=', '__vindyaa_', icon_size)
+
