@@ -11,7 +11,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('Hello guys!')
 
-st.info('      Add me on linkedin by clicking the button below')
+st.info('Add  me  on  linkedin  by  clicking  the  button  below')
 
 icon_size = 20
 
